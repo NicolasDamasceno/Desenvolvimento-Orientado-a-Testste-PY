@@ -4,6 +4,7 @@
 # o cartão gabarito;
 # o número de alunos da turma;
 # o cartão de respostas para cada aluno, contendo o seu número e suas respostas.
+
 from random import randint
 
 # Criando limetes do gabarito e alunos e as alternatives

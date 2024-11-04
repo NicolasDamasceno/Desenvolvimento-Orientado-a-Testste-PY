@@ -3,6 +3,7 @@
 # b) Grave uma lista somente com os números pares e mostre a lista;
 # c) Mostre a quantidade de números ímpares;
 # d) Grave uma lista somente com os números ímpares e mostre a lista.
+
 from random import randint
 
 #Função para gravar uma lista somente com os números inteiros

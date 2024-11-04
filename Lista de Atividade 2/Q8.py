@@ -2,8 +2,8 @@
 # ocorreu a letra ‘A’.
 # OBS: Fazer crítica na entrada do caractere para aceitar somente letras.
 
-#Função para verificar os caracters da frase
 
+#Função para verificar os caracters da frase
 def verficarCaracteres(fraseOriginal):
     fraseCorreta = list(range(len(fraseOriginal)))
     for i in range(len(fraseOriginal)):

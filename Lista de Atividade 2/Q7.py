@@ -1,5 +1,6 @@
-#Dada uma lista contendo 10 elementos numéricos, elabore um programa que verifique se um
-#outro valor dado pertence ou não à lista.
+# Dada uma lista contendo 10 elementos numéricos, elabore um programa que verifique se um
+# boutro valor dado pertence ou não à lista.
+
 from random import randint
 
 #Função para gravar a lista

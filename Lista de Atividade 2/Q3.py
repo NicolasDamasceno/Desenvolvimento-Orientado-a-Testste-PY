@@ -1,5 +1,5 @@
-#Faça um programa que dada uma seqüência de n números, imprimi-la na ordem inversa à da
-#leitura.
+# Faça um programa que dada uma seqüência de n números, imprimi-la na ordem inversa à da
+# leitura.
 from random import randint
 #Função para inveter os números da lista
 def inveterLista(lista):
